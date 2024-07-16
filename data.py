@@ -18,8 +18,8 @@ class OrderData:
     }
 
     SECOND_ORDER = {
-        'name': 'Граф',
-        'last_name': 'Монте-Кристо',
+        'name': 'Виктор',
+        'last_name': 'Цой',
         'address': 'Воздуховская 10',
         'metro': 'Крылатское',
         'number': '+3424123123',
